@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="place">
+        <item>观测点一</item>
+        <item>观测点二</item>
+        <item>观测点三</item>
+        <item>观测点四</item>
+        <item>观测点五</item>
+        <item>观测点六</item>
+    </string-array>
+</resources>
